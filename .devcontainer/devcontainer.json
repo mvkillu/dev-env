@@ -1,0 +1,7 @@
+{
+  "name": "workspace-dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode"
+}
